@@ -15,7 +15,7 @@
 1. [отчет об обследовании](https://github.com/1Nooll1/1Nooll1/blob/main/Отчет%20об%20обследовании.md);
 - [CJM (карта пользовательского пути)](https://miro.com/app/board/uXjVLmh2mqI=/?share_link_id=814278988868);
 - [модель AS IS](https://drive.google.com/file/d/1bgE2Ee9v4ernRYnMuJZMf1cmUwsxmp3i/view?usp=sharing);
-2. документ с требованиями к решению;
+2. [документ с требованиями к решению](https://github.com/1Nooll1/1Nooll1/blob/main/Документ%20с%20требованиями%20к%20решению.md);
 - [модель TO BE](https://drive.google.com/file/d/1bgE2Ee9v4ernRYnMuJZMf1cmUwsxmp3i/view?usp=sharing);
 - [диаграмма классов и объектов](https://drive.google.com/file/d/1bgE2Ee9v4ernRYnMuJZMf1cmUwsxmp3i/view?usp=sharing);
 4. [прототип решения](https://miro.com/app/board/uXjVLhSFxOY=/?share_link_id=433962857517);
